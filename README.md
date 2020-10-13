@@ -1,3 +1,3 @@
 # Machine Learning Algorithms
-This Repository is Just for Learning ML.
-I will be adding the iPyhton Notebook file for each Algorithm I learn/work
+This Repository contains dataset analysis using Basic ML 
+Ive used Linear Regression for the Human Head Brain Dataset
